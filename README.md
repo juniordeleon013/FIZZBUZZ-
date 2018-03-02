@@ -1,0 +1,2 @@
+# FIZZBUZZ-
+FIZZBUZZ JS practice
